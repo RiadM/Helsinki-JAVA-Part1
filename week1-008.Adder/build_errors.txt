@@ -1,0 +1,6 @@
+
+BUILD FAILED
+C:\Users\Tesseract\Documents\IdeaProjects\TMCProjects\mooc-2013-OOProgrammingWithJava-PART1\week1-008.Adder\nbproject\build-impl.xml:915: The following error occurred while executing this line:
+C:\Users\Tesseract\Documents\IdeaProjects\TMCProjects\mooc-2013-OOProgrammingWithJava-PART1\week1-008.Adder\nbproject\build-impl.xml:268: Error running javac.exe compiler
+
+Total time: 1 second
